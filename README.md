@@ -1,5 +1,8 @@
 # Secure Credential Drop - Enterprise Edition
 
+*APP DEMO LINK
+-[DEMO LINK](https://secure-credential-drop-ui-5p5n.vercel.app/)
+
 **A Self-Destructing Secret Sharing Platform **
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
